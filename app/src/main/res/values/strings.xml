@@ -8,7 +8,7 @@
     <string name="profile_bio_text">I am really intrigued by app building.\nI am really looking forward to the challenge.\nI am also looking to learn a lot.</string>
 
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
-    <string name="profile_hobby_first_text">🥇 FIRST HOBBY</string>
-    <string name="profile_hobby_second_text">🥈 SECOND HOBBY</string>
-    <string name="profile_hobby_third_text">🥉 THIRD HOBBY</string>
+    <string name="profile_hobby_first_text">🥇 Tennis is Life</string>
+    <string name="profile_hobby_second_text">🥈 Golfing is relaxing</string>
+    <string name="profile_hobby_third_text">🥉 Chess not checkers</string>
 </resources>
